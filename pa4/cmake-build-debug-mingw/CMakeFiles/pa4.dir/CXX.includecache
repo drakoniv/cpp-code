@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/cpp-code/pa4/pa4.cpp
+web.h
+D:/cpp-code/pa4/web.h
+
+D:/cpp-code/pa4/web.h
+iostream
+-
+fstream
+-
+cstring
+-
+

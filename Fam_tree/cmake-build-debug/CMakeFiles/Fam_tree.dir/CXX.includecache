@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/cpp-code/Fam_tree/lab8.h
+
+D:/cpp-code/Fam_tree/lab8_skeleton.cpp
+iostream
+-
+cstring
+-
+lab8.h
+D:/cpp-code/Fam_tree/lab8.h
+

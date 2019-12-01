@@ -1,0 +1,8 @@
+D:/cpp code/basics1-program/cmake-build-debug/CMakeFiles/product.dir
+D:/cpp code/basics1-program/cmake-build-debug/CMakeFiles/add.dir
+D:/cpp code/basics1-program/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/cpp code/basics1-program/cmake-build-debug/CMakeFiles/add-var.dir
+D:/cpp code/basics1-program/cmake-build-debug/CMakeFiles/hello-world.dir
+D:/cpp code/basics1-program/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/cpp code/basics1-program/cmake-build-debug/CMakeFiles/hello-world-too.dir
+D:/cpp code/basics1-program/cmake-build-debug/CMakeFiles/inc-mod.dir

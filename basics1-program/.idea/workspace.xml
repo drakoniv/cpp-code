@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="basics1-program" targetName="inc-mod" />
+      <config projectName="basics1-program" targetName="add" />
+      <config projectName="basics1-program" targetName="add-var" />
+      <config projectName="basics1-program" targetName="product" />
+      <config projectName="basics1-program" targetName="hello-world-too" />
+      <config projectName="basics1-program" targetName="hello-world" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d0d5726-7164-4e06-aaac-bc62a3b7e38c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1QgdsCsAQpLhq97QGw4oUNf1ttZ" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.add-var">
+    <configuration name="add-var" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="basics1-program" TARGET_NAME="add-var" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="basics1-program" RUN_TARGET_NAME="add-var">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="add" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="basics1-program" TARGET_NAME="add" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="basics1-program" RUN_TARGET_NAME="add">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hello-world-too" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="basics1-program" TARGET_NAME="hello-world-too" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="basics1-program" RUN_TARGET_NAME="hello-world-too">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hello-world" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="basics1-program" TARGET_NAME="hello-world" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="basics1-program" RUN_TARGET_NAME="hello-world">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="inc-mod" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="basics1-program" TARGET_NAME="inc-mod" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="basics1-program" RUN_TARGET_NAME="inc-mod">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="product" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="basics1-program" TARGET_NAME="product" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="basics1-program" RUN_TARGET_NAME="product">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.add" />
+      <item itemvalue="CMake Application.add-var" />
+      <item itemvalue="CMake Application.hello-world" />
+      <item itemvalue="CMake Application.hello-world-too" />
+      <item itemvalue="CMake Application.inc-mod" />
+      <item itemvalue="CMake Application.product" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d0d5726-7164-4e06-aaac-bc62a3b7e38c" name="Default Changelist" comment="" />
+      <created>1568196377085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568196377085</updated>
+      <workItem from="1568196378310" duration="607000" />
+      <workItem from="1568261681124" duration="1024000" />
+      <workItem from="1568382955543" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

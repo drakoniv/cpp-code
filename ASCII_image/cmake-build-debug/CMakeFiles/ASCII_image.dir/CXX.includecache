@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/cpp-code/ASCII_image/lab7.h
+iostream
+-
+fstream
+-
+
+D:/cpp-code/ASCII_image/lab7_functions.hpp
+lab7.h
+D:/cpp-code/ASCII_image/lab7.h
+
+D:/cpp-code/ASCII_image/main.cpp
+iostream
+-
+cstring
+-
+lab7_functions.hpp
+D:/cpp-code/ASCII_image/lab7_functions.hpp
+

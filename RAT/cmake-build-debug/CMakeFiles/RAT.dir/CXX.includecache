@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/cpp-code/RAT/main.cpp
+iostream
+-
+test.h
+D:/cpp-code/RAT/test.h
+
+D:/cpp-code/RAT/test.cpp
+test.h
+D:/cpp-code/RAT/test.h
+
+D:/cpp-code/RAT/test.h
+iostream
+-
+

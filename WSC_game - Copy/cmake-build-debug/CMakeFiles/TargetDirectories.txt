@@ -1,0 +1,3 @@
+D:/cpp code/WSC_game/cmake-build-debug/CMakeFiles/WSC_game.dir
+D:/cpp code/WSC_game/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/cpp code/WSC_game/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/cpp code/basics1-program/add-var.cpp
+iostream
+-
+
+D:/cpp code/basics1-program/add.cpp
+iostream
+-
+
+D:/cpp code/basics1-program/hello-world-too.cpp
+iostream
+-
+
+D:/cpp code/basics1-program/hello-world.cpp
+iostream
+-
+
+D:/cpp code/basics1-program/inc-mod.cpp
+iostream
+-
+

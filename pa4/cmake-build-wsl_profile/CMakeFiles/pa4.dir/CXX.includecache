@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/cpp-code/pa4/main.cpp
+web.h
+/mnt/d/cpp-code/pa4/web.h
+
+/mnt/d/cpp-code/pa4/pa4.cpp
+stack
+-
+web.h
+/mnt/d/cpp-code/pa4/web.h
+
+/mnt/d/cpp-code/pa4/web.cpp
+cstdlib
+-
+web.h
+/mnt/d/cpp-code/pa4/web.h
+
+/mnt/d/cpp-code/pa4/web.h
+iostream
+-
+fstream
+-
+cstring
+-
+

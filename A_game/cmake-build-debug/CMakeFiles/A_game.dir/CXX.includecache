@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/cpp-code/A_game/lab9.h
+iostream
+-
+ctime
+-
+cstdlib
+-
+cstring
+-
+
+D:/cpp-code/A_game/lab9_skeleton.cpp
+lab9.h
+D:/cpp-code/A_game/lab9.h
+
+D:/cpp-code/A_game/main.cpp
+iostream
+-
+ctime
+-
+cstdlib
+-
+cstring
+-
+lab9.h
+D:/cpp-code/A_game/lab9.h
+

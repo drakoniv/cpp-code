@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/pa3.dir/canvas.cpp.o CMakeFiles/pa3.dir/repl.cpp.o CMakeFiles/pa3.dir/patch.cpp.o CMakeFiles/pa3.dir/utils.cpp.o  -o pa3 

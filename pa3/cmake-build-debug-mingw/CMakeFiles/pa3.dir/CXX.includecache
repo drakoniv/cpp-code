@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/cpp-code/pa3/canvas.h
+patch.h
+D:/cpp-code/pa3/patch.h
+
+D:/cpp-code/pa3/patch.h
+string
+-
+
+D:/cpp-code/pa3/repl.cpp
+iostream
+-
+fstream
+-
+patch.h
+D:/cpp-code/pa3/patch.h
+utils.h
+D:/cpp-code/pa3/utils.h
+
+D:/cpp-code/pa3/utils.h
+iostream
+-
+fstream
+-
+stdexcept
+-
+patch.h
+D:/cpp-code/pa3/patch.h
+canvas.h
+D:/cpp-code/pa3/canvas.h
+

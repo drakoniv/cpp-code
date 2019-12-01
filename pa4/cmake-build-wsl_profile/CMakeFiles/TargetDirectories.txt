@@ -1,0 +1,3 @@
+/mnt/d/cpp-code/pa4/cmake-build-wsl_profile/CMakeFiles/rebuild_cache.dir
+/mnt/d/cpp-code/pa4/cmake-build-wsl_profile/CMakeFiles/pa4.dir
+/mnt/d/cpp-code/pa4/cmake-build-wsl_profile/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+C:\Users\drako\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\192.6817.32\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\pa1.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\pa1.dir/objects.a @CMakeFiles\pa1.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\pa1.dir/objects.a -Wl,--no-whole-archive  -o pa1.exe -Wl,--out-implib,libpa1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\pa1.dir\linklibs.rsp

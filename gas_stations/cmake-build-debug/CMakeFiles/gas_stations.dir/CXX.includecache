@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/cpp-code/gas_stations/lab6.h
+
+D:/cpp-code/gas_stations/main.cpp
+cmath
+-
+ctime
+-
+iostream
+-
+climits
+-
+cstdlib
+-
+lab6.h
+D:/cpp-code/gas_stations/lab6.h
+
